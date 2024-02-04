@@ -1,0 +1,33 @@
+// Colors
+//////////////////////////
+$gold: #D5966C;
+$darkgray: #151515;
+$gray: #444444;
+$white: #ffffff;
+
+// Fonts
+//////////////////////////
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@900&family=Outfit:wght@300&display=swap');
+
+// Headings
+
+$fs-blackxl: 6rem;
+$fs-blacklg: 4.375rem;
+$fs-blackmed: 3.75rem;
+$fs-blacksm: 2.25rem;
+
+// Body
+$fs-outfitmed: 1.375rem;
+$fs-outfitsm: 1.125rem;
+
+
+// Media Queries
+////////////////////////// 
+
+
+// UI Kit
+.button {
+    font-size: 20px;
+    color: #FFFFFF;
+    letter-spacing: 3.64px;
+}
